@@ -24,8 +24,8 @@ Print the model's coefficients (slope values for Volume and Weight).Print the in
 
 ## Program:
 ```
-Developed by:G.Mithik jain
-Ref no:24001881
+Developed by: Junjar U
+Ref no:24008873
 
 import pandas as pd
 from sklearn import linear_model
